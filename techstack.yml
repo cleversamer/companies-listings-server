@@ -2,7 +2,7 @@ repo_name: cleversamerr/companies-listings-server
 report_id: 485fde279c1deef7abdb396f2c3b2d83
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-24T12:41:34+00:00'
+timestamp: '2024-01-05T08:16:09+00:00'
 requested_by: cleversamerr
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/cleversamerr/companies-listings-server
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -41,6 +42,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/cleversamerr/companies-listings-server/blob/main/package.json
   detection_source: package.json
   last_updated_by: cleversamerr
   last_updated_on: 2023-04-17 17:36:23.000000000 Z
@@ -80,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/cleversamerr/companies-listings-server/blob/main/package.json
   detection_source: package.json
   last_updated_by: cleversamerr
   last_updated_on: 2023-04-17 17:36:23.000000000 Z
@@ -91,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/cleversamerr/companies-listings-server
   detection_source: Repo Metadata
 - name: nodemon
   description: A simple monitor script for use during development of a node.js app
@@ -114,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/cleversamerr/companies-listings-server/blob/main/package.json
   detection_source: package.json
   last_updated_by: cleversamerr
   last_updated_on: 2023-04-17 17:36:23.000000000 Z
@@ -155,6 +160,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/cleversamerr/companies-listings-server/blob/main/package.json
   detection_source: package.json
   last_updated_by: cleversamerr
   last_updated_on: 2023-04-17 17:36:23.000000000 Z
